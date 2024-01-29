@@ -1,3 +1,13 @@
+data/
+jobfiles/
+jobfiles_out/
+runs/
+wandb/
+__pycache__/
+img/
+results/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
